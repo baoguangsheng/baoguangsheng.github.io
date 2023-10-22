@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://baoguangsheng.github.io/sitemap.xml
+Sitemap: https://baoguangsheng.github.io/homepage//sitemap.xml
