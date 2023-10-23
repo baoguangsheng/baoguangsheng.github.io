@@ -23,7 +23,7 @@ I am Guangsheng Bao, a Ph.D. candidate at [Westlake University](https://www.west
 My primary research interests lie in Natural Language Generation, including Large Language Model, Neural Machine Translation, and Text Summarization.
 I published various papers on ACL, AAAI, EMNLP, and TASLP. I served as a reviewer for ACL, EMNLP, ICML, NIPS, TACL, COLING, etc., and as an area chair for COLING 2022.
 
-**Email**: baoguangsheng@westlake.edu.cn
+**Email**: [baoguangsheng@westlake.edu.cn](mailto:baoguangsheng@westlake.edu.cn)
 
 **Address**: No. 600 Dunyu Road, Sandun Town,
 Xihu District, Hangzhou, Zhejiang PR China
