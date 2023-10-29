@@ -55,8 +55,26 @@
       "url": "https://www.westlake.edu.cn/",
       "area": "Natural Language Processing",
       "studyType": "Ph.D.",
-      "startDate": "2022-08-19",
-      "endDate": "?",
+      "startDate": "2022-09",
+      "endDate": "present",
+      "score": ""
+    },
+    {
+      "institution": "University of Science and Technology of China, Hefei, China",
+      "url": "https://en.ustc.edu.cn/",
+      "area": "Software Engineering",
+      "studyType": "Master",
+      "startDate": "2005-09",
+      "endDate": "2008-01",
+      "score": ""
+    },
+    {
+      "institution": "HeFei University of Technology, Hefei, China",
+      "url": "https://www.hfut.edu.cn/",
+      "area": "Computer Science",
+      "studyType": "Undergraduate",
+      "startDate": "2000-09",
+      "endDate": "2004-06",
       "score": ""
     }
   ],
@@ -76,6 +94,6 @@
     }
   ],
   "interests": [],
-  "references": [],
+  "references": []
   "projects": []
 }
