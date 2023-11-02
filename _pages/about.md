@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: PhD student @ Westlake University, Natural Language Processing.
+subtitle: PhD candidate @ Westlake University, Natural Language Processing.
 
 profile:
   align: right
