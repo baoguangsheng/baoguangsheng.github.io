@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi, thanks for stopping by! 
 
-I am Guangsheng Bao, currently a Ph.D. candidate at [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/), where I have the privilege of being mentored by Prof. [Yue Zhang](https://frcchang.github.io/). My main focus in the realm of research centers around Natural Language Generation, which includes areas like Large Language Models, Neural Machine Translation, and Text Summarization. I've had the opportunity to share my findings through various publications in conferences like ACL, AAAI, EMNLP, and TASLP.
+I am Guangsheng Bao, currently a Ph.D. candidate at [Westlake University](https://www.westlake.edu.cn/) and [Zhejiang University](https://www.zju.edu.cn/), where I have the privilege of being advised by Prof. [Yue Zhang](https://frcchang.github.io/). My primary research interests lie in the field of trustworthy NLP, encompassing topics like model generalization, the creation of explainable and controllable NLP systems, ensuring the safe application of LLMs, and understanding the reasoning capabilities of LLMs. I have disseminated my research outcomes across a range of publications presented at esteemed conferences including ACL, ICLR, EMNLP, TASLP, and AAAI.
 
 In addition to my research, I've been actively involved in the academic community as a reviewer for conferences such as ACL, EMNLP, ICML, NIPS, TACL, COLING, and more. I've also had the honor of serving as an area chair for COLING 2022.
 
