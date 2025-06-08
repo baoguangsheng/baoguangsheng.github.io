@@ -20,17 +20,17 @@ nav_order: 1
 * 4/9/2024: "Fast-DetectGPT" at BAAI
 
 * 2/28/2024: "Fast-DetectGPT" at AI Time
----
+
 
 ## Serve as Reviewer
 
 * 2021 - present: ACL, ICML, NeurIPS, EMNLP, ICLR,  COLING, TACL, TKDE, TALLIP, and NLPCC.
----
+
 
 ## Teaching Assistent
 
 * 9/2024 - 12/2024: Natural Language Processing (by Prof. Yue Zhang)
----
+
 
 ## Mentoring
 
@@ -41,6 +41,4 @@ nav_order: 1
 * 11/2023 - 4/2024: Shiyuan Rao (from Southwestern University of Finance and Economics) 
 
 * 11/2022 - 3/2023: Yueguan Wang (from Tsinghua University)
-
-
 
