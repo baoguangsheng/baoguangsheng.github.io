@@ -24,7 +24,15 @@ nav_order: 1
 ---
 ### Serve as Reviewer
 
-* 2021 - present: ACL, ICML, NeurIPS, EMNLP, ICLR,  COLING, TACL, TKDE, TALLIP, and NLPCC.
+* 2025: ICML, ICLR, ACL
+
+* 2024: NeurIPS, ACL, EMNLP, TKDE
+
+* 2023: ACL, EMNLP, TACL
+
+* 2022: ICML, NeurIPS, COLING, TKDE, TALLIP
+
+* 2021: EMNLP, NLPCC
 
 ---
 ### Teaching Assistent
