@@ -9,7 +9,7 @@ nav_order: 1
 ---
 ### Talks Given
 
-* 4/8/2025: "The Differences Between AI and Humans - A Perspective of Causality and Detectability" at MLNLP
+* 4/12/2025: "The Differences Between AI and Humans - A Perspective of Causality and Detectability" at MLNLP
 
 * 4/8/2025: "The Differences Between AI and Humans - A Perspective of Causality and Detectability" at BAAI
 
