@@ -2,8 +2,9 @@ github_users:
   - baoguangsheng
 
 github_repos:
-  - baoguangsheng/g-transformer
   - baoguangsheng/fast-detect-gpt
+  - baoguangsheng/glimpse
+  - baoguangsheng/g-transformer
   - baoguangsheng/target-side-augmentation
   - baoguangsheng/nat-on-doc
   - baoguangsheng/ctx-rewriter-for-summ

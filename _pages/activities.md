@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /activities/
-title: academic activities
+title: activities
 description: Academic activities including talk, review, mentoring, and teaching.
 nav: true
 nav_order: 1
@@ -20,15 +20,17 @@ nav_order: 1
 * 4/9/2024: "Fast-DetectGPT" at BAAI
 
 * 2/28/2024: "Fast-DetectGPT" at AI Time
-
+---
 
 ## Serve as Reviewer
 
 * 2021 - present: ACL, ICML, NeurIPS, EMNLP, ICLR,  COLING, TACL, TKDE, TALLIP, and NLPCC.
+---
 
 ## Teaching Assistent
 
 * 9/2024 - 12/2024: Natural Language Processing (by Prof. Yue Zhang)
+---
 
 ## Mentoring
 
