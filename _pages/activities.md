@@ -13,13 +13,17 @@ nav_order: 1
 
 * 4/8/2025: "The Differences Between AI and Humans - A Perspective of Causality and Detectability" at BAAI
 
-* 3/4/2025: "Glimpse" at AI Time 
+* 3/4/2025: "Glimpse: Enabling White-Box Methods to Use Proprietary Models for Zero-Shot LLM-Generated Text Detection
+" at AI Time 
 
-* 5/24/2024: "Fast-DetectGPT" at Southern University of Science and Technology
+* 5/24/2024: "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text 
+via Conditional Probability Curvature" at Southern University of Science and Technology
 
-* 4/9/2024: "Fast-DetectGPT" at BAAI
+* 4/9/2024: "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text 
+via Conditional Probability Curvature" at BAAI
 
-* 2/28/2024: "Fast-DetectGPT" at AI Time
+* 2/28/2024: "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text 
+via Conditional Probability Curvature" at AI Time
 
 ---
 ### Serve as Reviewer
