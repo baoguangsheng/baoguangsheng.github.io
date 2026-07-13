@@ -25,7 +25,7 @@ My research works have been published at top-tier conferences including ACL, ICL
 
 Prior to my doctoral studies, I worked at [Alibaba](https://damo.alibaba.com/about?tab=0&language=en) developing intelligent customer service robot systems, and at  [Microsoft (China)](https://www.microsoft.com/zh-cn/ard/aboutus/overview.aspx) on the Cortana product. Feel free to reach out if you want to discuss my research or any related topics!
 
-**Email**: [20261381@fyust.edu.cn](mailto:20261381@fyust.edu.cn)
+**Email**: [baoguangsheng@fyust.edu.cn](mailto:baoguangsheng@fyust.edu.cn)
 
 **Address**: No. 104, Zhihui Avenue, Fuzhou High-tech Industrial Development Zone, Fujian Province
 
