@@ -9,6 +9,10 @@ nav_order: 1
 ---
 ### Talks Given
 
+* 5/21/2026: "In-Context Learning" at Yau Mathematical Sciences Center, Tsinghua University
+
+* 5/13/2026: "Zero-Shot AI-Generated Text Detection Based on Mechanism Shift Theory" at School of Mathematics and Physics, Xi'an Jiaotong-Liverpool University (XJTLU)
+
 * 4/12/2025: "The Differences Between AI and Humans - A Perspective of Causality and Detectability" at MLNLP
 
 * 4/8/2025: "The Differences Between AI and Humans - A Perspective of Causality and Detectability" at BAAI
@@ -17,7 +21,7 @@ nav_order: 1
 " at AI Time 
 
 * 5/24/2024: "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text 
-via Conditional Probability Curvature" at Southern University of Science and Technology
+via Conditional Probability Curvature" at Department of Computer Science and Engineering, Southern University of Science and Technology (SUSTech)
 
 * 4/9/2024: "Fast-DetectGPT: Efficient Zero-Shot Detection of Machine-Generated Text 
 via Conditional Probability Curvature" at BAAI

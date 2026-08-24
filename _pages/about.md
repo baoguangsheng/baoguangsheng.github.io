@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Assistant Professor @ Fuyao University of Science and Technology
+subtitle: Assistant Professor @ Fuyao University of Science and Technology (FYUST)
 
 profile:
   align: right
@@ -24,6 +24,10 @@ I am Guangsheng Bao, currently an Assistant Professor at [Fuyao University of Sc
 My research works have been published at top-tier conferences including ACL, ICLR, ICML, EMNLP, TASLP, and AAAI. I actively serve the academic community as a regular reviewer for ACL, EMNLP, ICML, NeurIPS, TACL, COLING, etc. I also acted as an Area Chair for COLING 2022.
 
 Prior to my doctoral studies, I worked at [Alibaba](https://damo.alibaba.com/about?tab=0&language=en) developing intelligent customer service robot systems, and at  [Microsoft (China)](https://www.microsoft.com/zh-cn/ard/aboutus/overview.aspx) on the Cortana product. Feel free to reach out if you want to discuss my research or any related topics!
+
+
+** :fire: Openings: Research Assistants / Interns / Visiting Students**
+We welcome motivated students interested in trustworthy LLM, AIGC detection, LLM reasoning and safe agents. I offer sufficient one‑one guidance and full‑cycle research training. Co‑authorship is based on contributions. Please send your CV to my email.
 
 **Email**: [baoguangsheng@fyust.edu.cn](mailto:baoguangsheng@fyust.edu.cn)
 
