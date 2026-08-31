@@ -19,7 +19,7 @@ social: false  # includes social icons at the bottom of the page
 
 Hi, thanks for stopping by! 
 
-I am Guangsheng Bao, currently an Assistant Professor at [Fuyao University of Science and Technology](https://fyust.edu.cn/). I received my Ph.D. from  [Zhejiang University](https://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/) under the supervision of Prof. [Yue Zhang](https://frcchang.github.io/). My core research focuses on **safe and trustworthy large language models**, covering AI-generated text detection, reliable LLM reasoning, and explainable & controllable text generation.
+I am Guangsheng Bao, currently an Assistant Professor at [Fuyao University of Science and Technology](https://fyust.edu.cn/). I received my Ph.D. from  [Zhejiang University](https://www.zju.edu.cn/) and [Westlake University](https://www.westlake.edu.cn/) under the supervision of Prof. [Yue Zhang](https://frcchang.github.io/). My core research focuses on **safe and trustworthy large language models**, covering AI-generated text detection, reliable LLM reasoning, and agentic AI.
 
 My research works have been published at top-tier conferences including ACL, ICLR, ICML, EMNLP, TASLP, and AAAI. I actively serve the academic community as a regular reviewer for ACL, EMNLP, ICML, NeurIPS, TACL, COLING, etc. I also acted as an Area Chair for COLING 2022.
 
@@ -27,6 +27,7 @@ Prior to my doctoral studies, I worked at [Alibaba](https://damo.alibaba.com/abo
 
 
 :fire: **Openings: Research Assistants / Interns / Visiting Students**
+
 We welcome motivated students interested in trustworthy LLM, AIGC detection, LLM reasoning and safe agents. I offer sufficient one‑one guidance and full‑cycle research training. Co‑authorship is based on contributions. Please send your CV to my email.
 
 **Email**: [baoguangsheng@fyust.edu.cn](mailto:baoguangsheng@fyust.edu.cn)
